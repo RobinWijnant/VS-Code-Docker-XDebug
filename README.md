@@ -2,7 +2,7 @@
 
 I was looking for a solution in which I would not have to hard code the docker host ip-address. Follow these steps to set it up for your container.
 
-Looking for a [LAMP or development stack](https://github.com/RobinWijnant/docker-compose-dev-stack)? I have created mine with this Xdebug settings.
+Looking for a [LAMP or development stack](https://github.com/RobinWijnant/docker-compose-dev-stack)? I have created mine with these Xdebug settings.
 
 ## Configuration
 
